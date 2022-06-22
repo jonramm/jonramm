@@ -6,7 +6,7 @@
 
 <!-- <img src="https://media.giphy.com/media/26xByIDDjGs3nGhwY/giphy.gif" width="200" height="auto" /> -->
 
-<h3>About me:</h3>
+<!-- <h3>About me:</h3> -->
 <p>
   
 </p>
