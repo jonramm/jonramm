@@ -1,4 +1,4 @@
-# Jon Ramm
-## Developer & Musician 
+# **Jon Ramm**
+## **Developer & Musician** 
 
-![I'm a gif!](https://media.giphy.com/media/26xByIDDjGs3nGhwY/giphy.gif)
+<img src="https://media.giphy.com/media/26xByIDDjGs3nGhwY/giphy.gif" width="200" height="auto" />
