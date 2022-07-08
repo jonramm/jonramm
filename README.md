@@ -8,7 +8,7 @@
 
 <h3>About me:</h3>
 <p>
-  Current computer science student with an excellent aptitude for programming seeking full-time work or internship. Looking for a challenging environment to get practical experience in the field and develop my skills as a programmer in a team setting. I'm currently working primarily with Python and JavaScript.
+Professional trombone player turned tech-head, Jon is a budding developer with an insatiable appetite for learning. He hopes to join the vibrant tech scene in Pittsburgh, PA with aspirations in furthering his education in embedded systems and machine learning. Having used the language of music to communicate with humanity thus far, Jon is thrilled to engage in a new form of expression and discovery through modern technology and cutting-edge web development.
 
 My big side project is a website called BookEater that allows unique users to create an account and keep track of books they've read. Users can write journal entries and decide how books 'taste' by choosing from a wide variety of illustrations depicting flavors and feelings. Implemented as a React SPA with a Node.js/Express/MySQL backend. Other projects include two hackathon entries, a Python/Flask desktop app for searching band tour dates, and a Python command line Hangman game. 
 
